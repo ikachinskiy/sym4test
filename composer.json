@@ -10,7 +10,10 @@
         "symfony/framework-bundle": "^4.0",
         "symfony/lts": "^4@dev",
         "symfony/web-server-bundle": "^4.0",
-        "symfony/yaml": "^4.0"
+        "symfony/yaml": "^4.0",
+        "twbs/bootstrap": "v4.1.1",
+        "twig/extensions": "v1.5.1",
+        "twig/twig": "v2.4.8"
     },
     "require-dev": {
         "symfony/dotenv": "^4.0"
